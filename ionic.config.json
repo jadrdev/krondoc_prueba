@@ -1,0 +1,7 @@
+{
+  "name": "krondoc_app_v3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
